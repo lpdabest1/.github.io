@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d84a0c0daecede99478a98e2ee581e24",
+    "revision": "19d6e2af2f7dd2f29e14f1abee6ec68e",
     "url": "/index.html"
   },
   {
-    "revision": "76687b90cec06f46842c",
+    "revision": "3e3c64830ae8c0cdd7bd",
     "url": "/static/css/main.418872f8.chunk.css"
   },
   {
-    "revision": "d337398b212e21b00bb3",
-    "url": "/static/js/2.84ff335a.chunk.js"
+    "revision": "0a1a7c15bf6ca853abeb",
+    "url": "/static/js/2.9102c62c.chunk.js"
   },
   {
     "revision": "29eb69a08ea4198f7b46e1db8a3d5045",
-    "url": "/static/js/2.84ff335a.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.9102c62c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "76687b90cec06f46842c",
-    "url": "/static/js/main.5b866069.chunk.js"
+    "revision": "3e3c64830ae8c0cdd7bd",
+    "url": "/static/js/main.85f1fafd.chunk.js"
   },
   {
     "revision": "f52ba179432c3be28857",
@@ -26,6 +26,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bc004cd188255743ed67fa59fda602ea",
     "url": "/static/media/IFIXIT Page.bc004cd1.PNG"
+  },
+  {
+    "revision": "8bc7c989aa15137b1be461da898158a8",
+    "url": "/static/media/MemMap_LPL_Financial_Logo.8bc7c989.png"
+  },
+  {
+    "revision": "af2475002fdfa7f155fddd08d87deb3e",
+    "url": "/static/media/NFL_Ranking.af247500.PNG"
   },
   {
     "revision": "5bcb7dfa1d70b4d4cecfd494a43e2157",
